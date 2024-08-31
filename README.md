@@ -1,2 +1,4 @@
 # Project-Intelligent-Recommendation-System
 The "Intelligent Recommendation System" project aims to develop a sophisticated recommendation system tailored to the needs of online learners.
+
+The title of the Project is “Intelligent Recommendation System”. In the rapidly evolving landscape of online education, the need for personalized learning experiences has become increasingly apparent. With a plethora of courses and resources available, learners face the daunting task of navigating through vast amounts of content to find materials that match their individual preferences and learning objectives. To address this challenge, the proposed project endeavors to develop an Intelligent Recommendation System tailored to the unique needs of online learners.
